@@ -1,0 +1,11 @@
+<map id="Phasespace_Calculation" name="Phasespace_Calculation">
+<area shape="rect" id="node3" href="$class_impulsive___calculation.html" title="Impulsive_Calculation" alt="" coords="411,13,558,39"/>
+<area shape="rect" id="node5" href="$class_phasespace___get___rotational___states___calculation.html" title="Phasespace_Get_Rotational\l_States_Calculation" alt="" coords="391,64,578,105"/>
+<area shape="rect" id="node6" href="$class_phasespace___get___vibrational___states___calculation.html" title="Phasespace_Get_Vibrational\l_States_Calculation" alt="" coords="389,129,580,171"/>
+<area shape="rect" id="node7" href="$class_roaming___calculation.html" title="Roaming_Calculation" alt="" coords="413,195,557,222"/>
+<area shape="rect" id="node2" href="$class_base___calculation.html" title="Base_Calculation" alt="" coords="5,105,128,131"/>
+<area shape="rect" id="node4" href="$class_triple___fragmentation___calculation.html" title="Triple_Fragmentation\l_Calculation" alt="" coords="667,5,810,47"/>
+<area shape="rect" id="node8" href="$class_roaming___fit___delta___e___roam___and___p___roam___calculation.html" title="Roaming_Fit_Delta_E\l_Roam_And_P_Roam_Calculation" alt="" coords="628,123,849,164"/>
+<area shape="rect" id="node9" href="$class_roaming___fit___trot___and___tvib___and___p___roam___calculation.html" title="Roaming_Fit_Trot_And\l_Tvib_And_P_Roam_Calculation" alt="" coords="634,188,843,229"/>
+<area shape="rect" id="node10" href="$class_roaming___fraction___energy___dependance___calculation.html" title="Roaming_Fraction_Energy\l_Dependance_Calculation" alt="" coords="651,253,826,295"/>
+</map>
