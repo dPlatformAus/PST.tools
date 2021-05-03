@@ -2,7 +2,12 @@
 
 A C++/MPI program for counting quantum states.
 
-[Thesis describing version 1](Docs/thesis.pdf)
+[Thesis Describing Version 1 - Roaming](Docs/thesis.pdf)
+
+[Cluster Installation Instructions](Docs/Cluster Installation Instructions.pdf)
+
+
+[Description of Code](Docs/PSTtools_descOfCode_v01.pdf)
 
 ![Roaming Poster](Docs/previewPoster1.jpg "Roaming Poster")
 
