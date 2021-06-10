@@ -11,6 +11,10 @@ A C++/MPI program for counting quantum states.
 
 [Thesis Describing Version 1 - Roaming](Docs/thesis.pdf)
 
+[Roaming Model Paper](https://pubs.acs.org/doi/10.1021/jp405582z)
+
+[Triple Fragmentation Model Paper](https://pubs.acs.org/doi/10.1021/jp404895y)
+
 
 ![Roaming Poster](Docs/previewPoster1.jpg "Roaming Poster")
 
